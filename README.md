@@ -10,4 +10,4 @@ when all files are received, go to the source folder and do the following:
 
 ## First start
 After all the actions above, run the file: `GUI_SETTINGS_APP.py`<br>
-Set up the program as you need. Then close the program and run the file: `asda`
+Set up the program as you need. Then close the program and run the file: `Checking_locks.py`
